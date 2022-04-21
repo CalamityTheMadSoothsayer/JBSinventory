@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">JBSinv</string>
+    <string name="search">Search</string>
+    <string name="product_number">Product Number:</string>
+    <string name="_600">600-******</string>
+    <string name="location">Location:</string>
+    <string name="description">Description:</string>
+    <string name="warehouse_total">Warehouse Total:</string>
+    <string name="trayformer_total">Trayformer / Pink Stickers:</string>
+    <string name="wh_total">WH total</string>
+    <string name="tf_total">TF / Pink sticker Total</string>
+    <string name="finish_up">Finish Up</string>
+    <string name="update_count">Update Count</string>
+    <string name="partials">Partials:</string>
+    <string name="scan">Scan</string>
+    <string name="partials_total">partials total</string>
+    <string name="forw">FORW</string>
+    <string name="back">BACK</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="recall">Recall</string>
+    <string name="asterisk">*</string>
+    <string name="get_updated_xls_sheet">Get updated XLS sheet</string>
+    <string name="title_activity_updater">updater</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="chemicals">Chemicals</string>
+    <string name="update">Update</string>
+    <string name="get_inv_sheet">Get inv sheet</string>
+    <string name="get_products">get products</string>
+    <string name="get_chemicals">GET CHEMICALS</string>
+    <string name="clear_folder">Clear Folder</string>
+</resources>
